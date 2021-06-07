@@ -1,0 +1,5 @@
+this file is a practice.
+
+Of Professional git and github course by Platzi
+
+=> Don´t use this Repo
