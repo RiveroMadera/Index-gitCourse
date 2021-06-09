@@ -26,6 +26,10 @@ body {
   font-weight: 600;
 }
 
+.tagline {
+  color: blue;
+}
+
 .header-img_git {
   margin-top: 15px;
   margin-right: 20px;
