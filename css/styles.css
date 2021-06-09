@@ -45,10 +45,20 @@ body {
   justify-content: space-between;
   margin: 50px;
   padding: 1em;
+  text-align: center;
   width: 50%;
 }
 
 .container-h1 {
   align-items: center;
   font-size: 30px;
+}
+
+.footer {
+  align-items: center;
+  background: #777;
+  color: #ffffff;
+  display: flex;
+  text-align: center;
+  padding: 0.5em;
 }
